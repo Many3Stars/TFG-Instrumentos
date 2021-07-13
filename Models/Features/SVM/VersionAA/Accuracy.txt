@@ -1,0 +1,1 @@
+The accuracy of SVMs is 31.01%
