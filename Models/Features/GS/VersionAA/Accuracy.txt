@@ -1,1 +1,0 @@
-The accuracy of Random Forest (Grid Search) is 63.65%
